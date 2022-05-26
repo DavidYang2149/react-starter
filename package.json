@@ -1,0 +1,33 @@
+{
+  "name": "@davidyang2149/react-starter",
+  "version": "0.0.1",
+  "description": "React starter with TypeScript, Jest, Testing-Library, CodeceptJS",
+  "bin": {
+    "@davidyang2149/react-starter": "./bin/create-react-starter.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidYang2149/react-starter.git"
+  },
+  "keywords": [
+    "React",
+    "react",
+    "React starter",
+    "react starter",
+    "starter",
+    "typescript",
+    "eslint",
+    "jest",
+    "testing-library",
+    "codecept"
+  ],
+  "author": "davidyang2149",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidYang2149/react-starter/issues"
+  },
+  "homepage": "https://github.com/DavidYang2149/react-starter#readme"
+}
