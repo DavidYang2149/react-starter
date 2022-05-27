@@ -6,6 +6,7 @@
     "@davidyang2149/react-starter": "./bin/create-react-starter.js"
   },
   "scripts": {
+    "check": "tsc --noEmit",
     "lint": "eslint --fix --ext .js,.jsx,.ts,.tsx ."
   },
   "devDependencies": {
@@ -16,7 +17,8 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-react": "^7.30.0",
-    "eslint-plugin-react-hooks": "^4.5.0"
+    "eslint-plugin-react-hooks": "^4.5.0",
+    "typescript": "^4.7.2"
   },
   "repository": {
     "type": "git",
