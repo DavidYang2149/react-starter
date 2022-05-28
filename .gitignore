@@ -13,6 +13,9 @@ node_modules
 ## Jest
 coverage
 
+## Parcel
+.parcel-cache
+
 ## Build
 dist
 build
