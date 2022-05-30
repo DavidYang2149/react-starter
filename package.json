@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "React starter with TypeScript, Jest, Testing-Library, CodeceptJS",
   "bin": {
-    "@davidyang2149/react-starter": "./bin/create-react-starter.js"
+    "@davidyang2149/react-starter": "./bin/react-starter-generator.js"
   },
   "scripts": {
     "start": "parcel index.html --port 8080",
