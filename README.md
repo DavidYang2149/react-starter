@@ -1,5 +1,6 @@
 # React Starter
-- [React starter kit](https://github.com/DavidYang2149/react-starter)
+- GitHub: [React starter kit](https://github.com/DavidYang2149/react-starter)
+- npm: [Download](https://www.npmjs.com/package/@davidyang2149/react-starter)
 
 ## 🚀 Quick start
 
