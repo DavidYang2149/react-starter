@@ -50,13 +50,13 @@ npm run test
 ## 🧪 Run E2E tests
 
 ```sh
-npm run codeceptjs
+npm run e2e
 
 # headless option
-npm run codeceptjs:headless
+npm run e2e:headless
 
 # ui option
-npm run codeceptjs:ui
+npm run e2e:ui
 ```
 
 ## ✍️ Authors
