@@ -11,9 +11,9 @@
     "check": "tsc --noEmit",
     "lint": "eslint --fix --ext .js,.jsx,.ts,.tsx .",
     "test": "jest",
-    "codeceptjs": "codeceptjs run --steps",
-    "codeceptjs:headless": "HEADLESS=true codeceptjs run --steps",
-    "codeceptjs:ui": "codecept-ui --app"
+    "e2e": "codeceptjs run --steps",
+    "e2e:headless": "HEADLESS=true codeceptjs run --steps",
+    "e2e:ui": "codecept-ui --app"
   },
   "dependencies": {
     "react": "^18.1.0",
