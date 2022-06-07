@@ -22,6 +22,8 @@
   "devDependencies": {
     "@codeceptjs/configure": "^0.8.0",
     "@codeceptjs/ui": "^0.4.6",
+    "@swc/core": "^1.2.197",
+    "@swc/jest": "^0.2.21",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
     "@types/jest": "^27.5.1",
