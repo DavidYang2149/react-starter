@@ -8,4 +8,7 @@ module.exports = {
     '<rootDir>/node_modules/',
     '<rootDir>/dist/',
   ],
+  transform: {
+    '^.+\\.(t|j)sx?$': ['@swc/jest'],
+  },
 };
