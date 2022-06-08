@@ -45,6 +45,9 @@ npm run lint
 
 ```sh
 npm run test
+
+# check coverage
+npm run test:coverage
 ```
 
 ## 🧪 Run E2E tests
