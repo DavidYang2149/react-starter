@@ -11,6 +11,7 @@
     "check": "tsc --noEmit",
     "lint": "eslint --fix --ext .js,.jsx,.ts,.tsx .",
     "test": "jest",
+    "test:coverage": "jest --coverage",
     "e2e": "codeceptjs run --steps",
     "e2e:headless": "HEADLESS=true codeceptjs run --steps",
     "e2e:ui": "codecept-ui --app"
