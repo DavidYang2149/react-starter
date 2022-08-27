@@ -1,6 +1,5 @@
 /node_modules/
 /dist/
-/.parcel-cache/
 
 # CodeceptJS
 codecept.conf.js

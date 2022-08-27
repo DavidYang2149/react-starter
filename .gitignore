@@ -16,9 +16,6 @@ coverage
 ## CodeceptJS
 output
 
-## Parcel
-.parcel-cache
-
 ## Build
 dist
 build
