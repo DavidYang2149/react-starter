@@ -6,8 +6,9 @@
     "@davidyang2149/react-starter": "./bin/react-starter-generator.js"
   },
   "scripts": {
-    "start": "parcel index.html --port 8080",
-    "build": "parcel build index.html",
+    "start": "vite --host",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
     "check": "tsc --noEmit",
     "lint": "eslint --fix --ext .js,.jsx,.ts,.tsx .",
     "test": "jest",
