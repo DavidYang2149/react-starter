@@ -11,7 +11,7 @@ npx @davidyang2149/react-starter <project-directory>
 ## 💎 Tech stack 
 - TypeScript
 - ESLint
-- Parcel
+- Vite
 - React
 - Jest
 - testing-library
