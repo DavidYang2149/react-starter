@@ -1,7 +1,7 @@
 {
   "name": "@davidyang2149/react-starter",
   "version": "1.0.3",
-  "description": "React starter with TypeScript, Jest, Testing-Library, CodeceptJS",
+  "description": "React starter with TypeScript, Jest, Testing-Library",
   "bin": {
     "@davidyang2149/react-starter": "./bin/react-starter-generator.js"
   },
@@ -12,10 +12,7 @@
     "check": "tsc --noEmit",
     "lint": "eslint --fix --ext .js,.jsx,.ts,.tsx .",
     "test": "jest",
-    "test:coverage": "jest --coverage",
-    "e2e": "codeceptjs run --steps",
-    "e2e:headless": "HEADLESS=true codeceptjs run --steps",
-    "e2e:ui": "codecept-ui --app"
+    "test:coverage": "jest --coverage"
   },
   "dependencies": {
     "react": "^18.1.0",
@@ -57,8 +54,7 @@
     "typescript",
     "eslint",
     "jest",
-    "testing-library",
-    "codecept"
+    "testing-library"
   ],
   "author": "davidyang2149",
   "license": "MIT",
