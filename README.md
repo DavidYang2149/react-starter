@@ -15,7 +15,6 @@ npx @davidyang2149/react-starter <project-directory>
 - React
 - Jest
 - testing-library
-- CodeceptJS
 
 ## 📚 Install dependencies
 

@@ -63,7 +63,6 @@ async function main() {
     log('\x1b[32m%s\x1b[0m', '- eslint');
     log('\x1b[32m%s\x1b[0m', '- jest');
     log('\x1b[32m%s\x1b[0m', '- testing-library');
-    log('\x1b[32m%s\x1b[0m', '- codeceptjs');
     log('');
     log('⭐ React Starter Kit ⭐');
     log('🥰 Create by davidyang2149');
