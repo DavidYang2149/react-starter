@@ -7,6 +7,7 @@ module.exports = {
   testPathIgnorePatterns: [
     '<rootDir>/node_modules/',
     '<rootDir>/dist/',
+    'cypress.config.ts',
   ],
   transform: {
     '^.+\\.(t|j)sx?$': ['@swc/jest'],

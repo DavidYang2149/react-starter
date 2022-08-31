@@ -1,7 +1,7 @@
 {
   "name": "@davidyang2149/react-starter",
   "version": "1.0.3",
-  "description": "React starter with TypeScript, Jest, Testing-Library",
+  "description": "React starter with TypeScript, Jest, Testing-Library, Cypress",
   "bin": {
     "@davidyang2149/react-starter": "./bin/react-starter-generator.js"
   },
@@ -61,7 +61,8 @@
     "typescript",
     "eslint",
     "jest",
-    "testing-library"
+    "testing-library",
+    "cypress"
   ],
   "author": "davidyang2149",
   "license": "MIT",
