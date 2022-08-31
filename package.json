@@ -7,12 +7,17 @@
   },
   "scripts": {
     "start": "vite --host",
+    "dev": "vite --host localhost --port 3000",
     "build": "tsc && vite build",
     "preview": "vite preview",
     "check": "tsc --noEmit",
     "lint": "eslint --fix --ext .js,.jsx,.ts,.tsx .",
     "test": "jest",
-    "test:coverage": "jest --coverage"
+    "test:coverage": "jest --coverage",
+    "cypress": "cypress open",
+    "cypress:headless": "cypress run",
+    "e2e": "cypress open",
+    "e2e:headless": "cypress run"
   },
   "dependencies": {
     "react": "^18.1.0",
