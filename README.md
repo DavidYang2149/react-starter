@@ -14,8 +14,8 @@ npx @davidyang2149/react-starter <project-directory>
 - Vite
 - React
 - Jest
-- testing-library
-- CodeceptJS
+- Testing-Library
+- Cypress
 
 ## 📚 Install dependencies
 

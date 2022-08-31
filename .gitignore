@@ -13,8 +13,11 @@ node_modules
 ## Jest
 coverage
 
-## CodeceptJS
-output
+# Cypress
+cypress/results
+cypress/screenshots
+cypress/videos
+index.json
 
 ## Build
 dist

@@ -1,6 +1,2 @@
 /node_modules/
 /dist/
-
-# CodeceptJS
-codecept.conf.js
-steps.d.ts
