@@ -62,6 +62,13 @@ npm run e2e:headless
 npm run e2e:ui
 ```
 
+## Use E2E test report
+
+When open Pull Request, you can use an e2e testing report by GitHub Actions.
+Set GitHub Pages in your repository.
+
+![](https://user-images.githubusercontent.com/40143056/188051599-4e926b7c-2c7f-435b-8c39-4d371b64fa22.png)
+
 ## ✍️ Authors
   - [Davidyang2149](https://github.com/DavidYang2149) - **David Yang** - <davidyang2149@gmail.com>
 
