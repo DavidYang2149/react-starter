@@ -23,6 +23,7 @@
     "report:generate": "marge index.json --reportDir public --assetsDir public/assets --reportPageTitle index.html"
   },
   "dependencies": {
+    "commander": "^9.4.0",
     "cypress-multi-reporters": "^1.6.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
