@@ -1,6 +1,6 @@
 {
   "name": "@davidyang2149/react-starter",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "React starter with TypeScript, Jest, Testing-Library, Cypress",
   "bin": {
     "@davidyang2149/react-starter": "./bin/react-starter-generator.js"
